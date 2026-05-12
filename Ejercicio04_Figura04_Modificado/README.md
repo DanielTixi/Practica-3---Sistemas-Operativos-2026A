@@ -25,9 +25,11 @@ por medio del condicional if, _if (pid == -1)_.
 Se implementa la función _getpid()_ para asignar a cada proceso un identificador único a cada tarea.
 
 ## Tareas en los procesos hijos
-1. [Hijo 1]: Realiza por medio de un _for_ una sumatoria de los 15 primeros números acumulados(1 al 15).
-2. [Hijo 2]: Realiza el calculo de las potencias de 5 para demostrar el procesamiento de ciclos diferentes.
-3. [Hijo 3]: Ejecuta el comando _ls -l_ para visualizar los archivos que contiene la carpeta donde se ejecuta el
+1. **Hijo 1**: Realiza por medio de un _for_ una sumatoria de los 15 primeros números acumulados(1 al 15).
+2. **Hijo 2**: Realiza el calculo de las potencias de 5 para demostrar el procesamiento de ciclos diferentes.
+3. **Hijo 3**: Ejecuta el comando _ls -l_ para visualizar los archivos que contiene la carpeta donde se ejecuta el
  archivo .c y ver que permisos proporciona cada archivo.
 
-![](../imagenes/Ejecucion_Ejercicio04.png){fig-align="center" width="1500x"}
+## Salida de Ejecucion
+
+![](../Imagenes/Ejecucion_Ejercicio04.png){fig-align="center" width="1500x"}
