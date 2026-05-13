@@ -1,6 +1,18 @@
+---
+title: "3.1.4 Modificación Proceso padre y tres procesos hijos"
+authors: Emily Morales
+format:
+  html:
+    embed-resources: true
+    theme: cozy
+    toc: true
+    title-block-banner: "#2c3e50"
+    title-block-banner-color: "white"
+---
+
 # Modificacion ejercicio 2
 
-##Cambio de flujo y sincronizaciòn 
+## Cambio de flujo y sincronizaciòn 
 Se modificò la posicion original de la funciòn wait(0). Al reubicarla al final, permitimos que el proceso padre ejecute sus incrementos en paralelo mientras el proceso hijo gestiona de forma asincrona la creaciòn y escritura de su propio entorno de datos. 
 
 ## Control de errores
@@ -10,5 +22,5 @@ Se gestionan fallos crìticos en la duplicaciòn de procesos mediante el condici
 * **Proceso Padre:**  Realiza un incremento aritmètico de una variable local en paso de 10. 
 * **Proceso Hijo:**  Genera un archivo independiente de texto denominado valores.txt para registrar secuencialmente cada uno de los valores.
 
-#Evidencia de Ejecución 
-![Captura de pantalla de la ejecucion](ejecucion.png.png)
+# Evidencia de Ejecución 
+![](../Imagenes/Ejecucion_Ejercicio02.jpeg){fig-align="center" width="1500x"}
