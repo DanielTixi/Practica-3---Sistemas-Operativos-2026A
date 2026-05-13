@@ -1,7 +1,7 @@
 ESCUELA POLITECNICA NACIONAL
 
-Integrantes: Emily Morales, Vanessa Paucar, Karen Tapia, Daniel Tixicuro, Emily Vargas
-Paralelo: GR2CD
+Integrantes: Emily Morales, Vanessa Paucar, Karen Tapia, Daniel Tixicuro, Emily Vargas  
+Paralelo: GR2CD  
 Fecha de Publicación: 12/05/2026
 
 Objetivos:
