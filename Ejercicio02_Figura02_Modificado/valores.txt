@@ -1,0 +1,10 @@
+Registro 1: valor = 10
+Registro 2: valor = 20
+Registro 3: valor = 30
+Registro 4: valor = 40
+Registro 5: valor = 50
+Registro 6: valor = 60
+Registro 7: valor = 70
+Registro 8: valor = 80
+Registro 9: valor = 90
+Registro 10: valor = 100
